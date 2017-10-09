@@ -1,0 +1,50 @@
+{
+  "name": "passport-facebook-signedrequest",
+  "version": "1.0.0",
+  "description": "Facebook authentication strategy for Passport using Access Token and Signed Request provided by the client's login.",
+  "keywords": [
+    "passport",
+    "facebook",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Thiago Bernardes",
+    "email": "tbernardes@gmail.com",
+    "url": "http://www.linkedin.com/in/thibernardes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cacothi/passport-facebook-signedrequest"
+  },
+  "bugs": {
+    "url": "https://github.com/cacothi/passport-facebook-signedrequest/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "fb": "2.0.0",
+    "passport-strategy": "1.0.0",
+    "util": "0.10.3"
+  },
+  "devDependencies": {
+    "make-node": "0.3.x",
+    "mocha": "1.x.x",
+    "chai": "2.x.x",
+    "chai-passport-strategy": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --require test/bootstrap/node test/*.test.js"
+  }
+}
