@@ -1,0 +1,2 @@
+# passport-facebook-signedrequest
+The Facebook authentication strategy authenticates request based on the Facebook access token and signed request provided by the client`s Facebook login.  Once the user login on Facebook in the client-side, the callback returns the AccessToken and SignedRequest for that session. Using the App ID and Secret, it`s possible to communicate with facebook to retrieve the scoped data.  Note: is recommended to set the App ID and Secred on the process, but for dev purpose would be fine to use within  the config file as per the demo.
