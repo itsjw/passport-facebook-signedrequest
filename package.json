@@ -8,7 +8,8 @@
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "accesstoken"
   ],
   "author": {
     "name": "Thiago Bernardes",
