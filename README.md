@@ -113,6 +113,4 @@ contribution.
 
 Copyright (c) 2017 Thiago Bernardes <[http://linkedin.com/in/thibernardes](http://linkedin.com/in/thibernardes)>
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Yvd9YjwKSPgZDyhU2WASruNb/cacothi/passport-facebook-signedrequest'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Yvd9YjwKSPgZDyhU2WASruNb/cacothi/passport-facebook-signedrequest.svg' />
-</a>
+
